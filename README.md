@@ -1,2 +1,2 @@
-# wiki
+# Wiki
 The soQsoftwiki
